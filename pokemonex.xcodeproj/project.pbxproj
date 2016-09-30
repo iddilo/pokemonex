@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D439CCD1D9E7866009AE15C /* pokemon.csv in Resources */ = {isa = PBXBuildFile; fileRef = 4D439CCC1D9E7866009AE15C /* pokemon.csv */; };
 		4D4EB9D71D9D882F00F4CFA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4EB9D61D9D882F00F4CFA1 /* AppDelegate.swift */; };
 		4D4EB9D91D9D882F00F4CFA1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4D4EB9D81D9D882F00F4CFA1 /* ViewController.swift */; };
 		4D4EB9DC1D9D882F00F4CFA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4D4EB9DA1D9D882F00F4CFA1 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4D439CCC1D9E7866009AE15C /* pokemon.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = pokemon.csv; sourceTree = "<group>"; };
 		4D4EB9D31D9D882F00F4CFA1 /* pokemonex.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pokemonex.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4D4EB9D61D9D882F00F4CFA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4D4EB9D81D9D882F00F4CFA1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 				4D4EB9D81D9D882F00F4CFA1 /* ViewController.swift */,
 				4D4EB9DA1D9D882F00F4CFA1 /* Main.storyboard */,
 				4D4EB9DD1D9D882F00F4CFA1 /* Assets.xcassets */,
+				4D439CCC1D9E7866009AE15C /* pokemon.csv */,
 				4D4EB9DF1D9D882F00F4CFA1 /* LaunchScreen.storyboard */,
 				4D4EB9E21D9D882F00F4CFA1 /* Info.plist */,
 			);
@@ -126,6 +129,7 @@
 			files = (
 				4D4EB9E11D9D882F00F4CFA1 /* LaunchScreen.storyboard in Resources */,
 				4D4EB9DE1D9D882F00F4CFA1 /* Assets.xcassets in Resources */,
+				4D439CCD1D9E7866009AE15C /* pokemon.csv in Resources */,
 				4D4EB9DC1D9D882F00F4CFA1 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -300,6 +304,7 @@
 				4D4EB9E71D9D882F00F4CFA1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
